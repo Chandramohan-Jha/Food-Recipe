@@ -1,6 +1,6 @@
 # foody
 
-Foody is an excellent source to get recipes. The app contains a large library of over 10,000 recipes. 
+Foody is an excellent source to get recipes. This app contains a large library of over 10,000 recipes. 
 
 ## Getting Started
 
