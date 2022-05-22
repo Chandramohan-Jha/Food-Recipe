@@ -6,6 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+## How to run
+* Clone the GitHub project in your local directory with the command git clone https://github.com/Chandramohan-Jha/Food-Recipe.git
+* Generate an api from https://developer.edamam.com/edamam-recipe-api.
+* Update your [app-id] and [app-key] in lib\home.dart inside getRecipe function.
+* Run the command in console "flutter pub get". This command will install the necessary packages required to run the project.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
